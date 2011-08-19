@@ -22,6 +22,8 @@ If you want to use artwork not included in this repository, please email <suppor
 
 * Use any GitHub artwork without permission
 
+* Sell any GitHub artwork without permission
+
 ## Naming your application
 
 Please avoid naming your projects anything that implies GitHub's endorsement. For example, don't call your awesome new iPhone app "GitHub Issues". Instead consider "Octoissues" or "HubIssues" or "Gissues". Maybe not that last one, but you get the idea.
