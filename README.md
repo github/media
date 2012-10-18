@@ -9,7 +9,7 @@ If you want to use artwork not included in this repository, please email <suppor
 
 * Use the Octocat or GitHub logo to advertise that your product has built-in GitHub integration
 
-* Use the Octocat or GitHub logo in a blog post or news article about GitHub.
+* Use the Octocat or GitHub logo in a blog post or news article about GitHub
 
 
 ## Please don't do these things:
